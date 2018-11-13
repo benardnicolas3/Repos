@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de90d7d2-bc54-4738-9db4-4a08bdeca180" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1940085883">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bureau/PIONEER DDJ-SR.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="5" column="115" selection-start-line="5" selection-start-column="115" selection-end-line="5" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bureau/desktop.ini">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dll-master/.clang-format">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/text_reader.hpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/initializer.hpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/base_conf.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-357" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/datasets.hpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/base_lstm_layer.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-561" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Documents/redux-master/rollup.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Documents/redux-master/rollup.config.js" />
+        <option value="$PROJECT_DIR$/Bureau/PIONEER DDJ-SR.csv" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Bureau" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="dll-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="dll-master" type="462c0819:PsiDirectoryNode" />
+              <item name="dll-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="dll-master" type="462c0819:PsiDirectoryNode" />
+              <item name="dll-master" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="dll-master" type="462c0819:PsiDirectoryNode" />
+              <item name="dll-master" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="dll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="dll-master" type="462c0819:PsiDirectoryNode" />
+              <item name="dll-master" type="462c0819:PsiDirectoryNode" />
+              <item name="processor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP Runtime" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de90d7d2-bc54-4738-9db4-4a08bdeca180" name="Default Changelist" comment="" />
+      <created>1534014911744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534014911744</updated>
+      <workItem from="1534104952475" duration="20000" />
+      <workItem from="1534142793637" duration="457000" />
+      <workItem from="1534729389890" duration="426000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="903000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49774775" visible="true" weight="0.25361273" />
+      <window_info id="Structure" order="1" sideWeight="0.5022523" side_tool="true" visible="true" weight="0.25361273" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="R Graphics" order="6" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Documents/redux-master/rollup.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bureau/PIONEER DDJ-SR.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="115" selection-start-line="5" selection-start-column="115" selection-end-line="5" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bureau/desktop.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dll-master/.clang-format">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/text_reader.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/initializer.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/base_conf.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/datasets.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dll-master/dll-master/include/dll/base_lstm_layer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+  </component>
+</project>
+<config>
+<Device Id="17"/>
+	<Device Type="4"/>
+	<Timer Discovery="100"/>
+	<Timer Id="100"/>
+	<Timer RunWait="100"/>
+	<Timer Random="300"/>
+	<Timer ConfNotif="2"/>
+	<Timer Aging="10"/>
+	<Timer IdRetry="5"
+<config>    
+<midi app="rekordbox">
+    <control channel="1" event_type="Note On" control="117">
+        <userio event="click">
+            <grid_edit_mode deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </grid_edit_mode>
+        </userio>
+        <userio event="output">
+            <grid_edit_mode deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </grid_edit_mode>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="44">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="forward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="0"/>
+                    <alias name="backward" value="0"/>
+                    <alias name="forward" value="127"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="2" event_type="Note On" control="36">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="backward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="0"/>
+                    <alias name="backward" value="127"/>
+                    <alias name="forward" value="0"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="2" event_type="Control Change" data_type="Absolute 7" control="4">
+        <userio event="click">
+            <track_gain deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any" behaviour="toggle"/>
+            </track_gain>
+        </userio>
+    </control>
+    <control channel="8" event_type="Note On" control="0">
+        <userio event="click">
+            <cue_point deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </cue_point>
+        </userio>
+        <userio event="output">
+            <cue_point deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </cue_point>
+        </userio>
+    </control>
+    <control channel="8" event_type="Note On" control="1">
+        <userio event="click">
+            <cue_point deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="any" behaviour="explicit"/>
+            </cue_point>
+        </userio>
+        <userio event="output">
+            <cue_point deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </cue_point>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" data_type="Absolute 7" control="4">
+        <userio event="click">
+            <track_gain deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any" behaviour="toggle"/>
+            </track_gain>
+        </userio>
+    </control>
+    <control channel="7" event_type="Control Change" control="3">
+        <userio event="click">
+            <master_gain deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </master_gain>
+        </userio>
+    </control>
+    <control channel="2" event_type="Note On" control="117">
+        <userio event="click">
+            <grid_edit_mode deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </grid_edit_mode>
+        </userio>
+        <userio event="output">
+            <grid_edit_mode deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </grid_edit_mode>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="36">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="backward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="0"/>
+                    <alias name="backward" value="127"/>
+                    <alias name="forward" value="0"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="2" event_type="Note On" control="44">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="forward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="0"/>
+                    <alias name="backward" value="0"/>
+                    <alias name="forward" value="127"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+</midi>
